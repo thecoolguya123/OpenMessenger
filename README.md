@@ -1,5 +1,5 @@
 # OpenMessenger
-A PHP, MySQLi, and JavaScript project that you can use to chat with your friends. It`s also open source!
+A PHP, MySQLi, and JavaScript project that you can use to chat with your friends. It's also open source!
 
 
 # Installation
